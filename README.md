@@ -22,6 +22,8 @@ GitHub supports the use of emojis in various forms such as commit messages, issu
 | 🧻 Roll of Paper | Document |
 | 🔑 Key | Public API |
 
+___
+
 ### ✅ Commit Message
 
 | Emoji | Description |
