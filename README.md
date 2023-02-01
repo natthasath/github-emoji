@@ -5,7 +5,7 @@ GitHub supports the use of emojis in various forms such as commit messages, issu
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 😊 Markdown Files
+### ❣️ Markdown Files
 
 | Emoji | Description
 | --- | --- |
@@ -21,3 +21,29 @@ GitHub supports the use of emojis in various forms such as commit messages, issu
 | 🔁 Repeat Button | Schedule |
 | 🧻 Roll of Paper | Document |
 | 🔑 Key | Public API |
+
+### ✅ Commit Message
+
+| Emoji | Description |
+| ---  | --- |
+| 🎉 Party Popper | Initial Commit |
+| 🔖 Bookmark | Version Tag |
+| ✨ Sparkles | New Feature |
+| 🐛 Bug | Bugfix |
+| 🔒 Lock | Security Fix |
+| 📇 Card Index | Metadata |
+| ♻️ Black Universal Recycling Symbol | Refactoring |
+| 📚 Books | Documentation |
+| 🌐 Globe With Meridians | Internationalization |
+| ♿ Wheelchair | Accessibility |
+| 🐎 Horse | Performance |
+| 🎨 Artist Palette | Cosmetic |
+| 🔧 Wrench | Tooling |
+| 🚨 Police Cars Revolving Light | Tests |
+| 💩 Pile of Poo | Deprecation |
+| 🗑️ Wastebasket | Removal |
+| 🚧 Construction Sign | Work In Progress (WIP) |
+
+```
+<emoji> commit message
+```
