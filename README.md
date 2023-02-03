@@ -7,45 +7,35 @@ GitHub supports the use of emojis in various forms such as commit messages, issu
 
 ### ❣️ Markdown Files
 
-| Emoji | Description
-| --- | --- |
-| 🎉 Party Popper | Initial Commit |
-| 🆕 New Button | New Update |
-| ⭐ Star | Features |
-| 💗 Growing Heart | Repository |
-| 📝 Memo | Developer Tool |
-| 💪🏼 Flexed Biceps | Registry |
-| 🥈 2nd Place Medal | Run |
-| 🔨 Hammer | Fix Error |
-| 👉🏼 Backhand Index Pointing Right | Try it out |
-| 🔁 Repeat Button | Schedule |
-| 🧻 Roll of Paper | Document |
-| 🔑 Key | Public API |
+| Emoji | Code | Description |
+| --- | --- | --- |
+| 🎉 Party Popper                   | `:tada:`              | Initial Commit    |
+| ⚡ High Voltage                   | `:zap:`               | New Updates       |
+| ⭐ Star                           | `:star:`              | Features          |
+| 💘 Heart with Arrow               | `:cupid:`             | Repository        |
+| ⚓ Anchor                         | `:anchor:`            | Developer Tool    |
+| ✅ Check Mark Button              | `:white_check_mark:`  | Requirements      |
+| 🔑 Key                            | `:key:`               | Configuration     |
+| 🚀 Rocket                         | `:rocket:`            | Setup             |
+| 💎 Sailboat                       | `:sailboat:`          | Run               |
+| 👉🏼 Backhand Index Pointing Right  | `:point_right:`       | Try it out        |
+| 🔨 Hammer                         | `:hammer:`            | Fix Error         |
+| 🔁 Repeat Button                  | `:repeat:`            | Schedule          |
+| 🏆 Trophy                         | `:trophy:`            | Document          |
 
 ___
 
 ### ✅ Commit Message
 
-| Emoji | Description |
-| ---  | --- |
-| 🎉 Party Popper | Initial Commit |
-| 🔖 Bookmark | Version Tag |
-| ✨ Sparkles | New Feature |
-| 🐛 Bug | Bugfix |
-| 🔒 Lock | Security Fix |
-| 📇 Card Index | Metadata |
-| ♻️ Black Universal Recycling Symbol | Refactoring |
-| 📚 Books | Documentation |
-| 🌐 Globe With Meridians | Internationalization |
-| ♿ Wheelchair | Accessibility |
-| 🐎 Horse | Performance |
-| 🎨 Artist Palette | Cosmetic |
-| 🔧 Wrench | Tooling |
-| 🚨 Police Cars Revolving Light | Tests |
-| 💩 Pile of Poo | Deprecation |
-| 🗑️ Wastebasket | Removal |
-| 🚧 Construction Sign | Work In Progress (WIP) |
-
-```
-<emoji> commit message
-```
+| Emoji | Code | Description |
+| --- | --- | --- |
+| ✨ Sparkles           | `:sparkles:`  | feat     |
+| 🐛 Bug                | `:bug:`       | fix      |
+| 📚 Books              | `:book:`      | docs     |
+| 🍺 Beer Mug           | `:beer:`      | style    |
+| ♻️ Recycling Symbol   | `:recycle:`   | refactor |
+| ⚡ High Voltage       | `:zap:`       | perf     |
+| 🙏 Pray               | `:pray:`      | test     |
+| 📦 Package            | `:package:`   | build    |
+| 💥 Collision          | `:boom:`      | ci       |
+| 💧 Droplet            | `:droplet:`   | chore    |
