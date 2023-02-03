@@ -17,12 +17,11 @@ GitHub supports the use of emojis in various forms such as commit messages, issu
 | ✅ Check Mark Button              | `:white_check_mark:`  | Requirements      |
 | 🔑 Key                            | `:key:`               | Configuration     |
 | 🚀 Rocket                         | `:rocket:`            | Setup             |
-| 💎 Sailboat                       | `:sailboat:`          | Run               |
+| 🏆 Trophy                         | `:trophy:`            | Run               |
 | 👉🏼 Backhand Index Pointing Right  | `:point_right:`       | Try it out        |
 | 🔨 Hammer                         | `:hammer:`            | Fix Error         |
 | 🔁 Repeat Button                  | `:repeat:`            | Schedule          |
-| 🏆 Trophy                         | `:trophy:`            | Document          |
-
+| 💎 Gem                            | `:gem:`               | Document          |
 ___
 
 ### ✅ Commit Message
