@@ -38,3 +38,17 @@ ___
 | 📦 Package            | `:package:`   | build    |
 | 💥 Collision          | `:boom:`      | ci       |
 | 💧 Droplet            | `:droplet:`   | chore    |
+___
+
+### 💓 Beautiful Icon
+
+| Emoji | Code |
+| --- | --- |
+| 🥏 Flying Disc                    | `:flying_disc:`           |
+| 🧁 Cupcake                        | `:cupcake:`               |
+| 🍧 Shaved Ice                     | `:shaved_ice:`            |
+| 🧦 Socks                          | `:socks:`                 |
+| 🦄 Unicorn                        | `:unicorn:`               |
+| 🧊 Ice                            | `:ice:`                   |
+| 🗂️ Card Index Dividers            | `:card_index_dividers:`   |
+| 📅 Calendar                       | `:calendar:`              |
